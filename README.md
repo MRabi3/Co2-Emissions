@@ -37,8 +37,9 @@ regins2018Ds.set_index('Region', inplace=True)
 regins2018Ds
 
 ```
+![ByRegion](https://user-images.githubusercontent.com/15274589/145727704-1127b585-9be6-4557-a88d-4ffc855465ac.PNG)
 
-![ByRegion](https://user-images.githubusercontent.com/15274589/145721080-11347a7e-1afa-4938-ba38-5ed846744e56.PNG)
+
 
 ## Get Countries with low Co2 emissions
 
