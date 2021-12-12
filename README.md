@@ -12,7 +12,7 @@ read this article
  install jupyter notebook > python -m pip install jupyterlab📔 
  install pandas numpy, matplotlib pacages
  
- ''' 
+ 
  # Necessary imports
 import numpy as np
 import pandas as pd
@@ -20,13 +20,6 @@ import matplotlib.pyplot as plt
 import seaborn as sb
 %matplotlib inline
 
-# Read the regions, country meta data
-countries = pd.read_csv('API_EN.ATM.CO2E.PC_DS2.csv')
-countries_metadata = pd.read_csv('Metadata_Country.csv')
-regions= pd.read_excel('Regions.xlsx',sheet_name='Sheet1')
-regions.head()
-
- '''
  
 ## Deploy
 
